@@ -1,0 +1,52 @@
+#Importing Langchain Core Framework
+langchain # main langchain library (this includes langchain-core internally)
+langchain-core
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Anthropic integration
+langchain-anthropic
+
+# Google Gemini integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face integration
+langchain-huggingface
+transformers
+huggingface_hub     # ⚠️ underscore, not hyphen
+sentence-transformers
+huggingface_hub[hf_xet]
+
+# Environment variable handling
+python-dotenv
+
+# Machine Learning utilities
+scikit-learn
+numpy
+
+
+#want to create frond end for users.
+streamlit
+
+grandalf
+
+pdfplumber
+
+PyMuPDF
+
+#vector store
+chromadb
+
+#want to change text to gpt token we used
+tiktoken
+langchain-chroma
+
+
+langchain-ollama
+
+pinecone
+
+langchain-pinecone
